@@ -1,0 +1,8 @@
+---
+layout: layouts/index
+---
+**Organizing principle:** Static characters with round personalities. Showing, not telling. Unreliability (typically in first-person but not always).
+
+**Audience:** People whose primary experience with static, round characters is through the lens of the anti-hero engaged in a power fantasy. My hope is that this collection serves as a compelling introduction to stories where characters are static, unreliability is employed, and stakes are dire, but power dynamics, and scale to which their actions impact the universe they inhabit, are not necessarily driving the narrative.
+
+A brief synopsis of William Riggan’s 1981 novel, *Picaros, Mad Men, Naifs, and Clowns: The Unreliable First-person Narrator*, offers five categories of unreliable narrators—the Picaro, the Madman, the Clown, the Naif, and the Liar.  Of these five categories, the Madman and the Picaro stand out to me as most recognizable by mainstream audiences. Tony Soprano, Bruce Wayne, Daenerys Targaryen, Walter White. While all interesting in their own right, the tension in many of their stories centers around the character’s having an empire at stake. In this way, modern audiences are easily disarmed by their inability to relate to the scale with which they perceive a character's decisions to impact the universe they inhabit. Anti-heroes like Huckleberry Finn, Charlotte Mullen, or Don Quixote are not without impact, but feel under-represented in an era where a kind of conspiratorial, vigilante rhetoric dominates our engagement with philosophical and socio-political questions.

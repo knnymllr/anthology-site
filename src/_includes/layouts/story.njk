@@ -1,0 +1,22 @@
+--- 
+layout: base 
+---
+
+<main>
+    <section>
+        <article>
+            <figure>
+                <img src="{{ cover }}" alt="{{ publication }}">
+            </figure>
+            <div>
+                <h1>{{ title }}</h1>
+                <h2>by {{ author }}</h2>
+                <p class="no-ind">
+                    {{ released }}
+                    {{ fact }}
+                </p>
+            </div>
+        </article>
+    </section>
+    <section class="stories format-text">{{ content | safe }}</section>
+</main>
