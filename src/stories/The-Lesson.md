@@ -3,18 +3,20 @@ author: Toni Cade Bambara
 class: 2
 cover: /img/gorilla-my-love.jpg
 publication: Gorilla, My Love
-fact: The only prerequisite is that it makes you happy.
-released: If it makes you happy then it's good.
 title: "The Lesson"
 weight: 2
 ---
-I thought today we would do a happy little picture. Don't forget to tell these special people in your life just how special they are to you. We're trying to teach you a technique here and how to use it. In nature, dead trees are just as normal as live trees.
+*Back in the days when everyone was old and stupid or young and foolish and me and Sugar were the only ones just right, this lady moved on our block with nappy hair and proper speech and no makeup. And quite naturally we laughed at her, laughed the way we did at the junk man who went about his business like he was some big-time president and his sorry-ass horse his secretary. And we kinda hated her too, hated the way we did the winos who cluttered up our parks and pissed on our handball walls and stank up our hallways and stairs so you couldn’t halfway play hide-and-seek without a goddamn gas mask. Miss Moore was her name. The only woman on the block with no first name.*
 
-We'll put a happy little bush here. And just raise cain. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Think about a cloud. Just float around and be there. Mountains are so simple, they're hard.
+Toni Cade Bambara's relationship with her African-American identity evolved alongside her name. Born Miltona Mirkin Cade, she shortened her given name to Toni at a young age. After discovering a sketchbook in a trunk of her great-grandmother's belongings with the West African ethnic group, Bambara, written inside, the author, activist, mimer, and film-maker replaced her middle name with her father's surname, and appended Bambara. In conjuction with the birth of her daughter in 1970, Bambara described this time as "the accumulation of experiences" in which she found her purpose in life. This journey toward an intimate sense of identity is reflected here in *The Lesson* by juxtaposing a passionate narrator with a fading sense of control over their community. 
 
-All those little son of a guns. Let's do that again. You can get away with a lot. Maybe we got a few little happy bushes here, just covered with snow. This is a fantastic little painting.
+In what is hopefully a natural contintuation from the preceding story, we are thrust into the mind of a child who does not see the world as a fair place, and whose disposition towards others is generally mistrusting. Where Nea's pursuit may feel heroic and rebellious against traditional expectations of being a woman, *The Lesson* invites the reader to ask whether Miss Moore is the villain or stooge some of the children make her out to be. From the outset it is clear that Miss Moore is an outsider to the community she services, and that the narrator, whose name is not revealed until the end of the story, would like to keep things this way. I hope the reader feels compelled to approach the narrator of this second story with a healthy skepticism. She claims to have a strong and clear sense of what is *just right* but what justifies that her sense is reliable? By resisting Miss Moore what is she withholding from herself?
 
-Just think about these things in your mind and drop em' on canvas. Decide where your cloud lives. Maybe he lives right in here. Clouds are free they come and go as they please. Here's something that's fun. Let's make some happy little clouds in our world. We don't need any guidelines or formats. All we need to do is just let it flow right out of us.
+In keeping with the inspiration for this anthology, it is important to recognize the difference in power dynamics from the modern anti-hero. The narrator is stuck with Miss Moore. The only thing she can control is her sardonic attitude, repeatedly trying to stoke chaos amongst the children. Like Bambara, Miss Moore is well educated at a predominantly white institution and often introduces the children to new ways of thinking about their circumstances, which contributes to her reputation as an outsider. By taking the children to FAO Schwarz, the children are disarmed enough to internalize what Miss Moore is trying to teach them, much to the dismay of the narrator. Sometimes we root for characters to refuse to compromise their morals, their static nature symbolic of conviction or maturity, but in this case it is not so clear who to root for. 
 
+## Questions
 
-
+1. How is the narrator's definition of *just right* fortified by the end of the story?
+2. Why do you think the narrator is particularly antagonistic towards Mercedes? What might her name be symbolic of? 
+3. What is the narrator's disposition towards the lesson when she asks, *Watcha bring us her for, Miss Moore?*
+4. How would the story change if the narrator's name had been revealed from the start?

@@ -3,33 +3,7 @@ layout: base
 ---
 
 <main>
-    <section>  
-        <h1 class="mrg-lft">{{ site.title }}</h1>
-        <p class="mrg-lft">{{ site.description}}</p>
-        <br><br>
-        <div class="slider">
-            <button class="btn btn-prev"><</button>
-            {% for post in collections.stories %}
-                <article class="slide">
-                    <figure>
-                        <img src="{{ post.data.cover }}" alt="{{ post.data.publication }}">
-                    </figure>
-                    <div>
-                        <h1>{{ post.data.title }}</h1>
-                        <h2>by {{ post.data.author }}</h2>
-                        <p class="no-ind">
-                            {{ post.data.released }}
-                            {{ post.data.fact }}
-                        </p>
-                        <br>
-                        <p class="no-ind">{{ post.data.description | safe }}
-                            <a href="{{ post.url | url }}">[Read more]</a>
-                        </p>
-                    </div>
-                </article>
-            {% endfor %}
-            <button class="btn btn-next">></button>
-        </div>
-    </section>
-    <section class="stories format-text">{{ content|safe }}</section>
+    <h1>{{ title }}</h1>
+    <h2>{{subtitle}}</h2>
+    <section class="format-text {{class}}">{{ content | safe }}</section>
 </main>

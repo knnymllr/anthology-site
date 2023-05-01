@@ -1,19 +1,25 @@
 ---
-author: May-Lee Chai
+author: May-lee Chai
 class: 1
 cover: /img/glamorous-asians.jpg
 publication: Glamorous Asians
-fact: May-Lee Chai continued to write about Nea, Sourdi, and other characters featured in this story in novels Dragon Chica (2010) and Tiger Girl (2013).
-released: Originally published in 2001, Saving Sourdi was collected and published in Glamorous Asians (2004).
 title: Saving Sourdi
 weight: 1
 ---
 
-Let's have a nice tree right here. You need to have a very firm paint to do this. We'll put a happy little sky in here. We'll take a little bit of Van Dyke Brown.
+*Once, when my older sister, Sourdi, and I were working alone in our family's restaurant, just the two of us and the elderly cook, some men got drunk and I stabbed one of them. I was eleven.* 
 
-Here's something that's fun. La- da- da- da- dah. Just be happy. Sometimes you learn more from your mistakes than you do from your masterpieces. Let all these little things happen. Don't fight them. Learn to use them.
+*I don't remember where Ma had gone that night. But I remember we were tired and it was late. We were one of the only restaurants that stayed open past nine in those days. The men had been growing louder, until they were our only customers, and, finally, one of them staggered up and put his arm across Sourdi's shoulders. He called her his "China doll" and his friends hooted at this.*
 
-I will take some magic white, and a little bit of Vandyke brown and a little touch of yellow. Do an almighty painting with us. If you've been in Alaska less than a year you're a Cheechako. A beautiful little sunset. You can do anything here. So don't worry about it.
+Author May-lee Chai is the first of her family to be born in the United States, and she has lived in 14 states since. This unique experience is evident as we are introduced to Nea and Sourdi, two sisters working in their mother's restaurant in South Dakota, their first relocation as a family after a rough arrival in Texas. Careful readers will note the tense in which Nea speaks about their relocation—*When we moved to South Dakota, I thought we'd find the real America, the one where we were supposed to be, not the hot sweaty America where we lived packed together in an apartment with bars on the windwos on a street where angry boys in cars played loud music and shot guns at each other in the night*. Considering Nea is telling the story in the past-tense, we can immediately contextualize this experience in the restaurant with Sourdi as formative to Nea's disposition.
 
-And maybe a little bush lives there. See there, told you that would be easy. In nature, dead trees are just as normal as live trees. Let's put some happy little bushes on the other side now. That's why I paint - because I can create the kind of world I want - and I can make this world as happy as I want it. It's important to me that you're happy.
+In analyzing whether a character is static—fundamentally unchanged by the end of a narrative—or dynamic—fundamentally different—it is important to consider the timeline in which we the reader are exposed to the narrator. Nea has changed since arriving in South Dakota but we are introduced to her well after age eleven. As Nea relives this collection of memories to the reader, the reader is piecing together some fragmented version for the first time. Nea has a dynamic personality, but in this context it might be more useful to think of her as round (as opposed to flat). Beginning with the stabbing, Nea's instincts are to protect Sourdi. When answering the question of whether Nea is static or dynamic, consider Nea's instincts in the end.
 
+Furthermore, Nea is clearly not in a position to affect the universe she inhabits on a grand scale. It is this lack of control that begs the reader to interpret the story from this perspective, a universal perspective of childhood when the world is still too large to begin to understand. Nea is traumatized by the way that men sexualize and objectify Sourdi. However valid Nea's trauma is, it is important to recognize that Sourdi's life is carefully obfuscated by Chai, such that it is difficult to conclude, or refute, with certainty that Nea's fears about Sourdi's domestic life are true. At the story's climax the reader may feel a sense of apprehension about whose version of events is reliable.
+
+## Questions
+
+1. In what ways does Nea's relationship with Ma inform her resistance to Sourdi coming of age?
+2. What does the story of Rudy Gutierrez contribute to your understanding of the setting and Nea's sense of American identity?
+3. How does Nea employing Duke's help stand to benefit Duke? Is this Nea's intention?
+4. If you have a favorite modern anti-hero—compare and contrast Nea with them. Do they share more similarities or differences with one another?

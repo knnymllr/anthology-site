@@ -3,11 +3,18 @@
     {% include "partials/head.njk" %}
     <body>
         {% include "partials/header.njk" %}
+        
         {{ content | safe }}
+        
+        {% include "partials/footer.njk" %}
+
         {% set js %}
         {% include "js/index.js" %}
         {% endset %}
+        
         <script>
-            {{ js | jsmin | safe }}</script>
+            {{ js | jsmin | safe }}
+        </script>
+    
     </body>
 </html>

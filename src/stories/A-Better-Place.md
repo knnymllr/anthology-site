@@ -3,16 +3,8 @@ author: Ottessa Moshfegh
 class: 4
 cover: /img/homesick-for-another-world.jpg
 publication: A Better Place
-fact: We'll throw some old gray clouds in here just sneaking around and having fun.
-released: Just let these leaves jump off the brush.
 title: A Better Place
 weight: 4
 ---
-How do you make a round circle with a square knife? That's your challenge for the day. Very easy to work these to death. Nice little clouds playing around in the sky. You have freedom here. The only guide is your heart. La- da- da- da- dah. Just be happy.
-
-There isn't a rule. You just practice and find out which way works best for you. Working it up and down, back and forth. You could sit here for weeks with your one hair brush trying to do that - or you could do it with one stroke with an almighty brush.
-
-All those little son of a guns. God gave you this gift of imagination. Use it. In painting, you have unlimited power. You have the ability to move mountains.
-
-You have to make those little noises or it won't work. Clouds are free. They just float around the sky all day and have fun. Maybe there's a happy little bush that lives right there. A fan brush can be your best friend. But they're very easily killed. Clouds are delicate.
+*I come from some other place. It's not like a real place or something I could point to on a map, if I even had a map of this other place, which I don't. There's no map because the place isn't a place like something to be near or in or at. It's not somewhere or anywhere, but it's not nowhere either. There is no where about it. But it certainly isn't this place, here on Earth, with all you silly people. I wish I new what it was, not because I think it would be great to tell you about it; I just miss it so much. If I knew what it was, maybe I could make something like it here on Earth. Waldemar says it's impossible. The only way to get there is to go.*
 

@@ -1,0 +1,13 @@
+<footer>
+    <h1>Stories</h1>
+    <div class="slider">
+        <button class="bold btn btn-prev"><</button>
+        {% for post in collections.stories %}
+                <div class="slide">
+                    <p class="bold">{{ post.data.title }} by {{ post.data.author }}</p>
+                    <p><a href="{{ post.url | url }}">[Read more]</a></p>
+                </div>
+        {% endfor %}
+        <button class="bold btn btn-next">></button>
+    </div>
+</footer>
