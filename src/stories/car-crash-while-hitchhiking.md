@@ -12,3 +12,6 @@ weight: 5
 
 *. . . I rose up sopping wet from sleeping under the pouring rain, and something less than conscious, thanks to the first three of the people I've already named—the salesman and the Indian and the student—all of whom had given me drugs.*
 
+
+1. What effect did the expectation of the narrator to tell you about *a Cherokee filled with bourbon* have on your reading of the story?
+2. With the closing line, *And you, you ridiculous people, you expect me to help you*, why do you think the narrator directly addresses the reader?

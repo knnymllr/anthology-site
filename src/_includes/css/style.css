@@ -123,6 +123,7 @@ a:hover {
 ol {
     margin-right: 2rem;
     text-align: justify;
+    padding: 20px;
 }
 
 ol li {
