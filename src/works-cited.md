@@ -3,7 +3,7 @@ layout: layouts/index
 title: Works Cited
 class: works-cited
 ---
-- **Bambara, Toni Cade**. "The Lesson." *Gorilla, My Love*, Pocket Books, 1972.
+- **Bambara, Toni C**. "The Lesson." *Gorilla, My Love*, Random House, 1972.
 - **Chai, May-Lee**. "Saving Sourdi." *Glamorous Asians*, University of Indianapolis Press, 2004.
 - **Gass, William H**. "The Nature of Narrative and Its Philosophical Implications." *Tests of Time*, Alfred A Knopf, 2002.
 - **Johnson, Denis**. "Car Crash While Hitchhiking." *Jesus' Son*, Picador, 1992.
