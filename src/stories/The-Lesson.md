@@ -14,9 +14,11 @@ In what is hopefully a natural contintuation from the preceding story, we are th
 
 In keeping with the inspiration for this anthology, it is important to recognize the difference in power dynamics from the modern anti-hero. The narrator is stuck with Miss Moore. The only thing she can control is her sardonic attitude, repeatedly trying to stoke chaos amongst the children. Like Bambara, Miss Moore is well educated at a predominantly white institution and often introduces the children to new ways of thinking about their circumstances, which contributes to her reputation as an outsider. By taking the children to FAO Schwarz, the children are disarmed enough to internalize what Miss Moore is trying to teach them, much to the dismay of the narrator. Sometimes we root for characters to refuse to compromise their morals, their static nature symbolic of conviction or maturity, but in this case it is not so clear who to root for. 
 
+<br>
+
 ## Questions
 
 1. How is the narrator's definition of *just right* fortified by the end of the story?
 2. Why do you think the narrator is particularly antagonistic towards Mercedes? What might her name be symbolic of? 
-3. What is the narrator's disposition towards the lesson when she asks, *Watcha bring us her for, Miss Moore?*
+3. What is the narrator's disposition towards the lesson when she asks, *Watcha bring us here for, Miss Moore?*
 4. How would the story change if the narrator's name had been revealed from the start?

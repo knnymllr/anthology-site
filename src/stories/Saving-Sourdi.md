@@ -17,6 +17,10 @@ In analyzing whether a character is static—fundamentally unchanged by the end 
 
 Furthermore, Nea is clearly not in a position to affect the universe she inhabits on a grand scale. It is this lack of control that begs the reader to interpret the story from this perspective, a universal perspective of childhood when the world is still too large to begin to understand. Nea is traumatized by the way that men sexualize and objectify Sourdi. However valid Nea's trauma is, it is important to recognize that Sourdi's life is carefully obfuscated by Chai, such that it is difficult to conclude, or refute, with certainty that Nea's fears about Sourdi's domestic life are true. At the story's climax the reader may feel a sense of apprehension about whose version of events is reliable.
 
+If you enjoyed reading *Saving Sourdi* you will be pleased to know that May-lee Chai continues to write from Nea's perspective in her novels *Dragon Chica* (2010) and *Tiger Girl* (2013).
+
+<br>
+
 ## Questions
 
 1. In what ways does Nea's relationship with Ma inform her resistance to Sourdi coming of age?

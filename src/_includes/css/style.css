@@ -161,18 +161,6 @@ article {
     margin-bottom:2rem;
 }
 
-@media only screen and (max-width: 768px) {
-    .format-text {
-        display:flex;
-        flex-flow: column nowrap;
-        align-items: center;
-    }
-    .format-text img {
-        margin-bottom:2rem;
-    }
-    
-}
-
 article p {
     margin-right:2rem;
 }
@@ -254,6 +242,7 @@ img {
     right: 0;
 }
 
+/* Desktop only */
 @media only screen and (min-width:768px) {
 
     .slide p {
@@ -265,6 +254,18 @@ img {
     }
     .works-cited li {
         width: 600px;
+    }
+}
+
+/* Mobile Only */
+@media only screen and (max-width: 768px) {
+    .format-text {
+        display:flex;
+        flex-flow: column nowrap;
+        align-items: center;
+    }
+    .format-text img {
+        margin-bottom:2rem;
     }
 }
 
