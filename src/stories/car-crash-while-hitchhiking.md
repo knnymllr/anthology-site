@@ -22,7 +22,7 @@ For additional context to this story, Denis Johnson got sober from all recreatio
 2. Write in blood. As if ink is so precious you can't waste it.
 3. Write in exile, as if you are never going to get home again, and you have to call back every detail.
 
- If you have a subscription, you can read the original publication of *Car-Crash While Hitchhiking* from 1989 in [The Paris Review](https://www.theparisreview.org/fiction/2444/car-crash-while-hitchhiking-denis-johnson). Finally, Recently [The New Yorker](https://www.newyorker.com/news/american-chronicles/the-terrifying-car-crash-that-inspired-a-masterpiece) published an article on the real-life events that inspired the writing of *Car Crash While Hitchhiking*. You may find it illuminating following your reading of the story.
+ If you have a subscription, you can read the original publication of *Car-Crash While Hitchhiking* from 1989 in [The Paris Review](https://www.theparisreview.org/fiction/2444/car-crash-while-hitchhiking-denis-johnson). Recently [The New Yorker](https://www.newyorker.com/news/american-chronicles/the-terrifying-car-crash-that-inspired-a-masterpiece) published an article on the real-life events that inspired the writing of *Car Crash While Hitchhiking*. You may find it illuminating following your reading of the story.
 
 <br>
 
