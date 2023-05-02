@@ -30,4 +30,4 @@ For additional context to this story, Denis Johnson got sober from all recreatio
 
 1. What effect did the expectation of the narrator to tell you about *a Cherokee filled with bourbon* have on your reading of the story?
 2. The narrator refers to clouds as *great grey brains*. What do you think they symbolize about the narrator, and about this anthology of stories as a whole?
-3. With the closing line, *And you, you ridiculous people, you expect me to help you*, why do you think the narrator directly addresses the reader?
+3. With the closing line, *And you, you ridiculous people, you expect me to help you*, who do you think the narrator is addressing?
