@@ -8,7 +8,7 @@ weight: 5
 ---
 *A salesman who shared his liquor and steered while sleeping . . . A Cherokee filled with bourbon . . . A VW no more than a bubble of hashish fumes, captained by a college student . . .*
 
-*And a family from Marshalltown who headonned and killed forever a man driving west out of Bethany, Missouri . . .*
+*And a family from Marshalltown who headonned and killed forever a man driving west out of Bethany, Missouri &nbsp; . &nbsp; . &nbsp; .*
 
 *. . . I rose up sopping wet from sleeping under the pouring rain, and something less than conscious, thanks to the first three of the people I've already named—the salesman and the Indian and the student—all of whom had given me drugs.*
 
